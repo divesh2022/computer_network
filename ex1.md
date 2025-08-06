@@ -1,8 +1,9 @@
-# That Time When Tried to Do My Homework but Remembered I Live in Hostel So I Didn't Done It & Got Scolded by My Teacher
+# Familirization with networking components and devicies : LAN adapter, hub, switches, router e.t.c. 
 
 ---
 
 ## 1. Router
+<img width="261" height="234" alt="image" src="https://github.com/user-attachments/assets/67b7ff29-9809-4bf8-8a74-a6f44db9ccba" />
 
 ### Definition & Working
 - **Router** is a networking device that forwards data packets between computer networks.
@@ -32,6 +33,7 @@ Routers also help in segmenting networks, increasing security and performance. W
 ---
 
 ## 2. Hub
+<img width="386" height="237" alt="image" src="https://github.com/user-attachments/assets/7ff6304e-bc65-434b-9dad-05ec04d8fa1b" />
 
 ### Definition & Working
 - **Hub** is a basic networking device that connects multiple computers in a network.
@@ -57,6 +59,7 @@ Despite their limitations, hubs are useful in environments where simplicity is v
 ---
 
 ## 3. Switch
+<img width="327" height="234" alt="image" src="https://github.com/user-attachments/assets/53077652-1c89-44d9-b91a-5ebb43cd14ce" />
 
 ### Definition & Working
 - **Switch** is a networking device that connects devices within a LAN and forwards data only to the intended recipient.
@@ -84,6 +87,7 @@ Layer 3 switches offer routing capabilities, ideal for large or complex networks
 ---
 
 ## 4. Firewall
+<img width="356" height="234" alt="image" src="https://github.com/user-attachments/assets/73e97e49-0677-4b90-9aa8-16cc5a12f433" />
 
 ### Definition & Working
 - **Firewall** is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
@@ -110,6 +114,7 @@ Advanced firewalls integrate with antivirus software and intrusion detection sys
 ---
 
 ## 5. Network Interface Card (NIC)
+<img width="322" height="234" alt="image" src="https://github.com/user-attachments/assets/941a1dbe-57a8-4107-b709-0fc24101b570" />
 
 ### Definition & Working
 - **NIC** is a hardware component that enables computers to connect to a network.
@@ -136,6 +141,7 @@ In data centers, multi-port NICs improve redundancy and bandwidth. Virtual NICs 
 ---
 
 ## 6. CAT5 Cable
+<img width="336" height="267" alt="image" src="https://github.com/user-attachments/assets/cd6ee565-f5d6-486e-b73c-71ee96084978" />
 
 ### Definition & Working
 - **CAT5 (Category 5) Cable** is a twisted pair cable used for Ethernet and other network physical layers.
@@ -165,3 +171,30 @@ Shielded versions are deployed in industrial settings to prevent interference. C
 Understanding networking components is vital for building and maintaining efficient, secure, and scalable networks. Routers, hubs, switches, firewalls, NICs, and CAT5 cables each play distinct roles, from data routing and connectivity to safeguarding information. Their types and applications vary across environments, from homes to enterprise data centers, reflecting the diversity and complexity of modern networking.
 
 ---
+
+## 7. LAN Adapter
+<img width="374" height="252" alt="image" src="https://github.com/user-attachments/assets/5baf2b86-ac54-41a9-a0de-a21036157a5e" />
+
+### Definition & Working
+- A **LAN (Local Area Network) Adapter** is a hardware device that enables a computer or other device to connect to a network.
+- It converts data between the device and the network medium (e.g., Ethernet cable or wireless signal).
+- LAN adapters can be **internal** (integrated into the motherboard) or **external** (USB or PCI-based).
+
+### Types of LAN Adapters
+- **Ethernet Adapter**: Uses RJ-45 connectors and CAT5/CAT6 cables for wired connections.
+- **Wireless LAN Adapter (Wi-Fi Adapter)**: Connects to wireless networks using radio signals.
+- **USB LAN Adapter**: External adapter connected via USB port, useful for devices without built-in Ethernet ports.
+- **PCI/PCIe LAN Adapter**: Installed inside desktops for high-speed wired connectivity.
+
+### Applications
+- **Desktop & Laptop Networking**: Provides internet and intranet access.
+- **Servers**: Ensures high-speed and reliable data transmission.
+- **Embedded Systems**: Used in IoT devices and industrial controllers.
+- **Network Troubleshooting**: External adapters help diagnose connectivity issues.
+
+### Brief Explanation
+LAN adapters are essential for network communication. Wired adapters offer stable and fast connections, ideal for gaming, streaming, and enterprise use. Wireless adapters provide mobility and ease of installation. USB adapters are versatile and portable, making them suitable for temporary setups or older devices.
+
+---
+
+
