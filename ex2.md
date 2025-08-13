@@ -5,6 +5,7 @@ Understanding the different types of network cables used in Local Area Networks 
 ---
 
 ## 1. Coaxial Cable
+<img width="404" height="234" alt="image" src="https://github.com/user-attachments/assets/d1be5f28-75fc-4eb3-8a7d-932db9d6432c" />
 
 ### Definition
 A coaxial cable is an electrical cable with an inner conductor surrounded by a tubular insulating layer, a metallic shield, and often an insulating outer jacket. It is used for transmitting high-frequency signals.
@@ -28,6 +29,7 @@ A coaxial cable is an electrical cable with an inner conductor surrounded by a t
 ---
 
 ## 2. Unshielded Twisted Pair (UTP) Cable
+<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/73e1b56e-d3a7-41b3-8750-c7dccd398b2f" />
 
 ### Definition
 UTP cable is a type of copper cable that consists of pairs of wires twisted together without any shielding. It is the most common cable used in Ethernet networks.
@@ -51,6 +53,7 @@ UTP cable is a type of copper cable that consists of pairs of wires twisted toge
 ---
 
 ## 3. Shielded Twisted Pair (STP) Cable
+<img width="288" height="252" alt="image" src="https://github.com/user-attachments/assets/ee845b91-45af-4ffa-b609-cc8ef1f8dc19" />
 
 ### Definition
 STP cable is similar to UTP but includes additional shielding to protect the transmission from external electromagnetic interference.
@@ -72,8 +75,8 @@ STP cable is similar to UTP but includes additional shielding to protect the tra
 ---
 
 ## 4. Unguided Transmission (Wireless Media)
-
-> **Note:** There is no such cable as "Unguided Twisted Pair cable." The term "unguided media" refers to wireless transmission (e.g., radio waves, microwaves, infrared).
+<img width="412" height="234" alt="image" src="https://github.com/user-attachments/assets/758cbb6b-0a98-47c7-8e41-9255284d12ff" />
+The term "unguided media" refers to wireless transmission (e.g., radio waves, microwaves, infrared).
 
 ### Definition
 Unguided transmission uses electromagnetic waves to transmit data through air, vacuum, or water, rather than physical cables.
@@ -95,6 +98,7 @@ Unguided transmission uses electromagnetic waves to transmit data through air, v
 ---
 
 ## 5. Crimping Tool
+<img width="241" height="241" alt="image" src="https://github.com/user-attachments/assets/200976e7-236c-4362-997c-1f7023e7a2cd" />
 
 ### Definition
 A crimping tool is a hand-held device used to attach connectors (such as RJ-45 or RJ-11) to the ends of network cables by deforming (crimping) the connector around the cable.
@@ -120,6 +124,7 @@ A crimping tool is a hand-held device used to attach connectors (such as RJ-45 o
 ## 6. Connectors: RJ-45 and RJ-11
 
 ### RJ-45 Connector
+<img width="269" height="269" alt="image" src="https://github.com/user-attachments/assets/80498b9f-5c4d-421a-8eba-3c335b05d2e5" />
 
 #### Definition
 RJ-45 (Registered Jack 45) is a standardized physical network interface commonly used for terminating twisted pair cables, primarily in Ethernet networking.
@@ -141,6 +146,7 @@ RJ-45 (Registered Jack 45) is a standardized physical network interface commonly
 ---
 
 ### RJ-11 Connector
+<img width="254" height="254" alt="image" src="https://github.com/user-attachments/assets/9e4e1818-7877-47f4-a3fe-8f7fb9802d99" />
 
 #### Definition
 RJ-11 (Registered Jack 11) is a standardized physical network interface typically used for terminating telephone cables.
