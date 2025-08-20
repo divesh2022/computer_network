@@ -36,6 +36,8 @@ Ethernet cables are used to connect network devices. A **Straight-through cable*
 6. **Crimp the connector** using the crimping tool until it clicks securely.
 7. **Repeat the process** for the other end of the cable.
 8. **Test the cable** using a cable tester to verify correct pin configuration and continuity.
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/60cd0ecc-2202-42d0-b760-884023859433" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/41106d73-183c-4804-a2b3-435a7a0e6af3" />
 
 ---
 
