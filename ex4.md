@@ -97,6 +97,11 @@ LAN topology refers to the physical or logical arrangement of computers, cables,
 
 ---
 
+<img width="3777" height="4238" alt="image" src="https://github.com/user-attachments/assets/0b813028-4b74-4693-a0f6-1cea1e63f42c" />
+
+
+---
+
 ## 🧰 Devices and Components Used
 - **Network Devices**: Switches, hubs, routers, access points
 - **Cables**: Ethernet (Cat5e, Cat6), fiber optic, coaxial
