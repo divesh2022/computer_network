@@ -7,13 +7,71 @@
    - Count labels among the \(k\) neighbors.
    - Assign the most frequent label to the input.
 
-<img width="901" height="425" alt="image" src="https://github.com/user-attachments/assets/bd19e54e-b87b-45bb-9e45-9350186abb04" />
+---
 
-<img width="877" height="418" alt="image" src="https://github.com/user-attachments/assets/27f2ceda-da78-43c4-8961-cdcb31376bb4" />
+### 1️⃣ Fruit Classification
 
-<img width="892" height="394" alt="image" src="https://github.com/user-attachments/assets/fe3199fa-dee0-41fa-b57a-bd21a8e33b96" />
+**Dataset:**
 
-<img width="886" height="428" alt="image" src="https://github.com/user-attachments/assets/4c42b45b-c5f2-4fd5-bf1b-98300b446e35" />
+| Weight (g) | Color Score | Fruit (1=Apple, 0=Orange) |
+|------------|-------------|---------------------------|
+| 150        | 0.8         | 1                         |
+| 130        | 0.7         | 1                         |
+| 170        | 0.3         | 0                         |
+| 160        | 0.2         | 0                         |
+
+**Question:**  
+Using KNN with \( k = 3 \), classify a fruit weighing 140g with a color score of 0.6.
+
+---
+
+### 2️⃣ Student Pass Prediction
+
+**Dataset:**
+
+| Study Hours | Passed (1=Yes, 0=No) |
+|-------------|----------------------|
+| 1           | 0                    |
+| 2           | 0                    |
+| 3           | 1                    |
+| 4           | 1                    |
+
+**Question:**  
+Using KNN with \( k = 3 \), predict whether a student who studies for 2.5 hours will pass.
+
+---
+
+### 3️⃣ Email Spam Detection
+
+**Dataset:**
+
+| Word Count | Link Count | Spam (1=Yes, 0=No) |
+|------------|------------|--------------------|
+| 50         | 0          | 0                  |
+| 100        | 2          | 1                  |
+| 80         | 1          | 1                  |
+| 30         | 0          | 0                  |
+
+**Question:**  
+Using KNN with \( k = 3 \), predict if an email with 70 words and 1 link is spam.
+
+---
+
+### 4️⃣ Loan Approval
+
+**Dataset:**
+
+| Income ($1000s) | Credit Score | Approved (1=Yes, 0=No) |
+|------------------|--------------|-------------------------|
+| 30               | 600          | 0                       |
+| 50               | 700          | 1                       |
+| 40               | 650          | 0                       |
+| 60               | 720          | 1                       |
+
+**Question:**  
+Using KNN with \( k = 3 \), predict whether a person with $45k income and a credit score of 680 will be approved.
+
+---
 
 
 ## LR
