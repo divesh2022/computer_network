@@ -73,3 +73,32 @@ Successfully planned and implemented a subnetting scheme for the given IP networ
 
 ---
 
+| Subnet | Subnet Mask     | Number of Hosts |
+|--------|------------------|------------------|
+| A      | 255.0.0.0        | 16,777,214       |
+| B      | 255.128.0.0      | 8,388,606        |
+| C      | 255.192.0.0      | 4,194,302        |
+| D      | 255.224.0.0      | 2,097,150        |
+| E      | 255.240.0.0      | 1,048,574        |
+| F      | 255.248.0.0      | 524,286          |
+| G      | 255.252.0.0      | 262,142          |
+| H      | 255.254.0.0      | 131,070          |
+| I      | 255.255.0.0      | 65,534           |
+| J      | 255.255.255.0    | 254              |
+| K      | 255.255.255.252  | 2                |
+
+| Subnet | IP Address   | Router IP     |
+|--------|--------------|---------------|
+| A      | 172.16.0.0   | 172.16.0.1    |
+| B      | 172.16.1.0   | 172.16.1.1    |
+| C      | 172.16.2.0   | 172.16.2.1    |
+| D      | 172.16.3.0   | 172.16.3.1    |
+
+| Subnet Name | Subnet Address | Description         |
+|-------------|----------------|---------------------|
+| Subnet A    | 195.70.26.0     | Connected to Server |
+| Subnet B    | 195.70.27.0     | End Users           |
+| Subnet C    | 195.70.28.0     | Application Clients |
+
+<img width="1054" height="610" alt="image" src="https://github.com/user-attachments/assets/e614a543-e8d4-431b-ab1d-bc8c6e5bd119" />
+
